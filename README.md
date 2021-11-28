@@ -7,7 +7,7 @@ This program is built to create a brick-breaker game, the game contains a small 
 ### Main.java
 
 This file is built to create a window to display the game inside it "The red rectangle illustrate the the frame window". <br/><br/>
-![The Frame window](WindowFrame.png)
+![The Frame window](Images_of_ReadomeFile/WindowFrame.png)
 
 
 ### Gameplay.java
@@ -30,7 +30,7 @@ This file defines the interactions between the user and the game, the style of t
             g.drawString("Press 'Enter' to restart", 230, 350);
         }
 ``` 
-![You Won Phrase](YouWon.png)
+![You Won Phrase](Images_of_ReadomeFile/YouWon.png)
 
 > What happens if the user loses
 ```java
