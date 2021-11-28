@@ -52,6 +52,6 @@ This file defines the interactions between the user and the game, the style of t
 
 ### MapGenerator.java
 This file creates the bricks and styles them.
-![Bricks Map](Bricks.png)
+![Bricks Map](Images_of_ReadomeFile/Bricks.png)
 
 
