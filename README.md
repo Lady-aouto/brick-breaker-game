@@ -7,7 +7,7 @@ This program is built to create a brick-breaker game, the game contains a small 
 
 ### main.java
 This file is built to create a frame to display the game inside it 
-![Alt Text]()
+![The Frame window](TheGameFrame.png)
 
 
 
