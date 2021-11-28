@@ -12,7 +12,7 @@ This file is built to create a window to display the game inside it "The red rec
 
 ### Gameplay.java
 
-This file defines the way the game style and the interactions between the user and the game, also when the game starts, end, and continue. <br/>
+This file defines the way the game style and the interactions between the user and the game, also when the game starts, end, and continue also: <br/>
 
 >What happens if the user wins
 ```java
@@ -30,7 +30,7 @@ This file defines the way the game style and the interactions between the user a
             g.drawString("Press 'Enter' to restart", 230, 350);
         }
 ``` 
-![The Frame window](YouWon.png)
+![You Won Phrase](YouWon.png)
 
 > What happens if the user lose
 ```java
@@ -48,10 +48,10 @@ This file defines the way the game style and the interactions between the user a
             g.drawString("Press 'Enter' to restart", 230, 350);
         }
 ```
-![The Frame window](GameOver.png)
+![Game Over Phrase](GameOver.png)
 
 ### MapGenerator.java
 This file create the bricks the style applied to them.
-![The Frame window](Bricks.png)
+![Bricks Map](Bricks.png)
 
 
