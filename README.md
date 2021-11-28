@@ -48,7 +48,7 @@ This file defines the interactions between the user and the game, the style of t
             g.drawString("Press 'Enter' to restart", 230, 350);
         }
 ```
-![Game Over Phrase](GameOver.png)
+![Game Over Phrase](Images_of_ReadomeFile/GameOver.png)
 
 ### MapGenerator.java
 This file creates the bricks and styles them.
