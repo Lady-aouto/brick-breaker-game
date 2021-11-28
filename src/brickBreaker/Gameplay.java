@@ -1,7 +1,5 @@
 package brickBreaker;
 
-//import org.w3c.dom.css.Rect;
-
 import javax.swing.*;
 import javax.swing.Timer;
 import java.awt.*; // for Graphics and Color
