@@ -7,7 +7,7 @@ This program is built to create a brick-breaker game, the game contains a small 
 ### Main.java
 
 This file is built to create a window to display the game inside it "The red rectangle illustrate the the frame window". <br/><br/>
-![The Frame window]()
+![The Frame window](WindowFrame.png)
 
 
 ### Gameplay.java
@@ -29,7 +29,8 @@ This file defines the way the game style and the interactions between the user a
             g.setFont(new Font("serif", Font.BOLD, 20));
             g.drawString("Press 'Enter' to restart", 230, 350);
         }
-```
+``` 
+![The Frame window](YouWon.png)
 
 > What happens if the user lose
 ```java
@@ -47,8 +48,10 @@ This file defines the way the game style and the interactions between the user a
             g.drawString("Press 'Enter' to restart", 230, 350);
         }
 ```
+![The Frame window](GameOver.png)
 
 ### MapGenerator.java
-
+This file create the bricks the style applied to them.
+![The Frame window](Bricks.png)
 
 
