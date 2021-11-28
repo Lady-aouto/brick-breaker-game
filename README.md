@@ -1,8 +1,8 @@
 # brick-breaker-game
-This program is a project of the subject IT251, Under the supervision of Dr.Mashael AL-Shuail, 4th of December 2021.
+This program is a project of the course IT251, Under the supervision of Dr.Mashael AL-Shuail, 4th of December 2021.
 
 ## About the Game
-This program is built to create a brick-breaker game, the game contains a small ball with a specific number of bricks at the top of the window, and a slider paddle to interact with the moving ball, to win in this game you need to break all the bricks with out missing the ball.
+This program is built to create a brick-breaker game, the game contains a small ball with a specific number of bricks at the top of the window, and a slider paddle to interact with the moving ball, to win this game you need to break all the bricks without missing the ball.
 
 ### Main.java
 
@@ -12,7 +12,7 @@ This file is built to create a window to display the game inside it "The red rec
 
 ### Gameplay.java
 
-This file defines the way the game style and the interactions between the user and the game, also when the game starts, end, and continue also: <br/>
+This file defines the interactions between the user and the game, the style of the components of the game, specifies when the game starts, ends and continues.<br/> Also: <br/>
 
 >What happens if the user wins
 ```java
@@ -32,7 +32,7 @@ This file defines the way the game style and the interactions between the user a
 ``` 
 ![You Won Phrase](YouWon.png)
 
-> What happens if the user lose
+> What happens if the user loses
 ```java
 //GAME OVER "if the ball went down"
         if(ballposY > 570){
@@ -51,7 +51,7 @@ This file defines the way the game style and the interactions between the user a
 ![Game Over Phrase](GameOver.png)
 
 ### MapGenerator.java
-This file create the bricks the style applied to them.
+This file creates the bricks and styles them.
 ![Bricks Map](Bricks.png)
 
 
