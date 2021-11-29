@@ -61,4 +61,4 @@ This file defines the interactions between the user and the game, the style of t
 This file creates the bricks and styles them.
 ![Bricks Map](Images_of_ReadomeFile/Bricks.png)
 
-`note: the wibsite does not display large size videos, ***but*** you can download the output videos if you are interesrted from []() they will be downloaded easily.`
+`note: the wibsite does not display large size videos, but you can download the output videos if you are interesrted from []() they will be downloaded easily.`
