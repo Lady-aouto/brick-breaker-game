@@ -1,20 +1,22 @@
 # brick-breaker-game
-This program is a project of the course IT251, Under the supervision of Dr.Mashael AL-Shuail, 4th of December 2021.
+This program is a project of the **course IT251**, Under the supervision of Dr.Mashael AL-Shuail, 4th of December 2021.
 
 #### requirements:
-> 1- JAVA Programming Language <br/>
-> 2- Programming Language Editor (I used Intellij IDEA Community)
+> 1. JAVA Programming Language <br/>
+> 2. Programming Language Editor **(I used Intellij IDEA Community)**
 
 ## About the Game
 This program is built to create a brick-breaker game, the game contains a small ball with a specific number of bricks at the top of the window, and a slider paddle to interact with the moving ball, to win this game you need to break all the bricks without missing the ball.
 
 ### Main.java
+***
 
 This file is built to create a window to display the game inside it "The red rectangle illustrate the frame window". <br/><br/>
 ![The Frame window](Images_of_ReadomeFile/WindowFrame.png)
 
 
 ### Gameplay.java
+***
 
 This file defines the interactions between the user and the game, the style of the components of the game, specifies when the game starts, ends and continues.<br/> Also: <br/>
 
@@ -55,7 +57,8 @@ This file defines the interactions between the user and the game, the style of t
 ![Game Over Phrase](Images_of_ReadomeFile/GameOver.png)
 
 ### MapGenerator.java
+***
 This file creates the bricks and styles them.
 ![Bricks Map](Images_of_ReadomeFile/Bricks.png)
 
-
+`note: the wibsite does not display large size videos, ***but*** you can download the output videos if you are interesrted from []() they will be downloaded easily.`
