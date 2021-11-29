@@ -1,6 +1,10 @@
 # brick-breaker-game
 This program is a project of the course IT251, Under the supervision of Dr.Mashael AL-Shuail, 4th of December 2021.
 
+#### requirements:
+> 1- JAVA Programming Language <br/>
+> 2- Programming Language Editor (I used Intellij IDEA Community)
+
 ## About the Game
 This program is built to create a brick-breaker game, the game contains a small ball with a specific number of bricks at the top of the window, and a slider paddle to interact with the moving ball, to win this game you need to break all the bricks without missing the ball.
 
