@@ -6,7 +6,7 @@ This program is built to create a brick-breaker game, the game contains a small 
 
 ### Main.java
 
-This file is built to create a window to display the game inside it "The red rectangle illustrate the the frame window". <br/><br/>
+This file is built to create a window to display the game inside it "The red rectangle illustrate the frame window". <br/><br/>
 ![The Frame window](Images_of_ReadomeFile/WindowFrame.png)
 
 
